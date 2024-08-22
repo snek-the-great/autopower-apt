@@ -1,14 +1,14 @@
 Package: autopower
-Version: 0.96
+Version: 0.98
 Architecture: i386
 Depends: upower, power-profiles-daemon, systemd
 Priority: optional
 Section: admin
-Filename: pool/main/a/autopower/autopower_0.96_i386.deb
-Size: 84080
-SHA256: 22d8f1dc64432379ae2a7d475ffaad0802be306fc8d18925c51d96d4d435932a
-SHA1: a62741ce67d3bea5159ad3e6db503d922c705946
-MD5sum: 2948c541c71ab3820363d81467cd625a
+Filename: pool/main/a/autopower/autopower_0.98_i386.deb
+Size: 84078
+SHA256: 95dae861641db450ea6d0bb68483308a6f8fada0cef6c75ebded54099673d5bd
+SHA1: c6e673fecea2fa895d554fdad618d2b5a9460be5
+MD5sum: 851dbd29eb2945d00589a347718af673
 Description: A script to switch CPU mode based on charging status
 Maintainer: SnekTheGreat <snek@snekthegreat.com>
 

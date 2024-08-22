@@ -1,28 +1,28 @@
 Origin: AutoPower
 Label: AutoPower Repository
 Codename: noble
-Date: Thu, 22 Aug 2024 19:06:46 UTC
+Date: Thu, 22 Aug 2024 19:23:46 UTC
 Architectures: amd64 i386
 Components: main
 Description: AutoPower APT Repository
 MD5Sum:
- 322a55e66b43d96ff060a111561f0ba8 481 main/binary-amd64/Packages
- 5787776533567be5dcb2a615b1cf784f 366 main/binary-amd64/Packages.gz
+ d8f5fdb659cc5082b8ab4cd3470941ef 481 main/binary-amd64/Packages
+ 7f45c707d84471b98cfb1a08aca8fd39 367 main/binary-amd64/Packages.gz
  6b4c0d9dad624dbee572b9d87a5ef836 120 main/binary-amd64/Release
- 867ab887c2e1e9259b8422b1112a3c93 479 main/binary-i386/Packages
- 171c7977588703eeef777f471c59af29 364 main/binary-i386/Packages.gz
+ 3df5bb9ab6bbd3c12ea70560fd27f4f8 479 main/binary-i386/Packages
+ 62a20a77bef861fc9e8b694361366519 364 main/binary-i386/Packages.gz
  0ef50ea346342230a68dd8e7814efd43 119 main/binary-i386/Release
 SHA1:
- 39feb44b590d3f9ee358d44b1815d22e31a0d257 481 main/binary-amd64/Packages
- dfeef90f674573925a2fe7c6557899454a8c3667 366 main/binary-amd64/Packages.gz
+ 05186285ca7286b06cd9eeb2e1c5168ab113e55e 481 main/binary-amd64/Packages
+ aa7b729349f8fe1e70b22d617872f2526b3cb5ed 367 main/binary-amd64/Packages.gz
  ca80ddec3f8dd4567043ec86031b31d38e3cd1ca 120 main/binary-amd64/Release
- ac20da7e6f00d7bbe020ad37a20736235cf0a13d 479 main/binary-i386/Packages
- ae358b6b08f8da6278aa763740b5c254b05387e5 364 main/binary-i386/Packages.gz
+ dd67c5d58a1994bdebe8b97f649e5f0413a549c8 479 main/binary-i386/Packages
+ 2fa0ed58dee03f83303f11e6bb288307ab65e808 364 main/binary-i386/Packages.gz
  f10faf59d607895c28829a14a7593a4c2168cc22 119 main/binary-i386/Release
 SHA256:
- 47b7030ff7c5eb9a97069d25108e823d764071de5f9dd8746cef3ddfbc487a28 481 main/binary-amd64/Packages
- 9bca2adf34573eface1ebdb85085628eb337bd352307e83cf6731ea468c3865b 366 main/binary-amd64/Packages.gz
+ 842fc60669eae1e858ccc10dad454c9441ec869a97f7d88f72788ec0dd25d107 481 main/binary-amd64/Packages
+ 53b659e2b8ca7fe209c98c88b63ae03be7997dcb07e34dab44e7b80e4ca1a369 367 main/binary-amd64/Packages.gz
  a74ddb14cef7c788387c4d75d27baecc646be6bd738d28f243d556536807df7b 120 main/binary-amd64/Release
- e8ecd6d80cf1929b86905ad53dc8e1a1f2f4006a74b1634f3d3389a03ce4eab0 479 main/binary-i386/Packages
- 79b71d68a6b9b80faa23f3805b32df76a9b17f7b319179dbdb86c1f07123511a 364 main/binary-i386/Packages.gz
+ aaad5540d2093d5020a0b88172137f80d1436b0a27bf737e53e0f7592fe3f949 479 main/binary-i386/Packages
+ 4757f4257b3c61d17304dab3f7053bc161a06fb66fc89869d6f78bad8ab31c4c 364 main/binary-i386/Packages.gz
  f1c2827be9df8d71793b6c5cb4cf98b9d78de5012b473b73a101b2e1ce785463 119 main/binary-i386/Release
