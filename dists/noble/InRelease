@@ -4,26 +4,35 @@ Hash: SHA512
 Origin: AutoPower
 Label: AutoPower Repository
 Codename: noble
-Date: Thu, 22 Aug 2024 17:06:41 UTC
-Architectures: amd64
+Date: Thu, 22 Aug 2024 19:06:46 UTC
+Architectures: amd64 i386
 Components: main
 Description: AutoPower APT Repository
 MD5Sum:
- d09510165d2913c160b9c9097378c2ed 481 main/binary-amd64/Packages
- 35064170a49c541e83b421bb04111770 364 main/binary-amd64/Packages.gz
+ 322a55e66b43d96ff060a111561f0ba8 481 main/binary-amd64/Packages
+ 5787776533567be5dcb2a615b1cf784f 366 main/binary-amd64/Packages.gz
  6b4c0d9dad624dbee572b9d87a5ef836 120 main/binary-amd64/Release
+ 867ab887c2e1e9259b8422b1112a3c93 479 main/binary-i386/Packages
+ 171c7977588703eeef777f471c59af29 364 main/binary-i386/Packages.gz
+ 0ef50ea346342230a68dd8e7814efd43 119 main/binary-i386/Release
 SHA1:
- 5561e5242999903d16cb2dfd9d003d27e1a1b044 481 main/binary-amd64/Packages
- 9c72c8f2fc2473cb81fa638114dd6cd7b9ba6973 364 main/binary-amd64/Packages.gz
+ 39feb44b590d3f9ee358d44b1815d22e31a0d257 481 main/binary-amd64/Packages
+ dfeef90f674573925a2fe7c6557899454a8c3667 366 main/binary-amd64/Packages.gz
  ca80ddec3f8dd4567043ec86031b31d38e3cd1ca 120 main/binary-amd64/Release
+ ac20da7e6f00d7bbe020ad37a20736235cf0a13d 479 main/binary-i386/Packages
+ ae358b6b08f8da6278aa763740b5c254b05387e5 364 main/binary-i386/Packages.gz
+ f10faf59d607895c28829a14a7593a4c2168cc22 119 main/binary-i386/Release
 SHA256:
- f6dc766cb845a91b78000943f7180bf885f402cff0860fa7c0278ac4f9114da1 481 main/binary-amd64/Packages
- 0b62248220970ab33e11a5495f4a49924680351c2a63f018a686903143e09e55 364 main/binary-amd64/Packages.gz
+ 47b7030ff7c5eb9a97069d25108e823d764071de5f9dd8746cef3ddfbc487a28 481 main/binary-amd64/Packages
+ 9bca2adf34573eface1ebdb85085628eb337bd352307e83cf6731ea468c3865b 366 main/binary-amd64/Packages.gz
  a74ddb14cef7c788387c4d75d27baecc646be6bd738d28f243d556536807df7b 120 main/binary-amd64/Release
+ e8ecd6d80cf1929b86905ad53dc8e1a1f2f4006a74b1634f3d3389a03ce4eab0 479 main/binary-i386/Packages
+ 79b71d68a6b9b80faa23f3805b32df76a9b17f7b319179dbdb86c1f07123511a 364 main/binary-i386/Packages.gz
+ f1c2827be9df8d71793b6c5cb4cf98b9d78de5012b473b73a101b2e1ce785463 119 main/binary-i386/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQmR0hLRNffjM8TCIy4LUaijgKANQUCZsdwJgAKCRC4LUaijgKA
-NYEJAP4oo6FvItl1K2Z3vpqKhOnT1ULRO/HDtgrnjyJnAa0WqgD+NEDzq26qMxCb
-LdeHajJXJTA4pWmo8fTe0B91Xd9gJAE=
-=MXGB
+iHUEARYKAB0WIQQmR0hLRNffjM8TCIy4LUaijgKANQUCZseMRgAKCRC4LUaijgKA
+NdW1AQCCSnPUkEHCYZlix6Ulsfv0Twb7+6CkzAguqWZWin7kHQEA/SrgmaiaWsJm
+T6O0SgJcP9xI999TxNX9VwdENq1CcgM=
+=CKW0
 -----END PGP SIGNATURE-----

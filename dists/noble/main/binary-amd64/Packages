@@ -5,10 +5,10 @@ Depends: upower, power-profiles-daemon, systemd
 Priority: optional
 Section: admin
 Filename: pool/main/a/autopower/autopower_0.95_amd64.deb
-Size: 73480
-SHA256: 9df5c28bf0c8a0e3e91eb680b73bc1a92349b5da15fc9af636f2e4c9c8894baf
-SHA1: 64ab651b28b526bf1315dbe7cedd2aacdba7ef9a
-MD5sum: 1badcb40b6bcc771b08849e792cd24b1
+Size: 53610
+SHA256: 2e6f63356887b1289e95378407e5288900bbc3f909269d6e54db2dcad2cfd415
+SHA1: be0a0847b1d16942ee27b7d5e30d8f1db7b8cc42
+MD5sum: 5b14220f3093c2b7f6ffa3bcc54671fb
 Description: A script to switch CPU mode based on charging status
 Maintainer: SnekTheGreat <snek@snekthegreat.com>
 
