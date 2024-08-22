@@ -3,8 +3,8 @@ Hash: SHA512
 
 Origin: AutoPower
 Label: AutoPower Repository
-Codename: stable
-Date: Thu, 22 Aug 2024 03:06:08 UTC
+Codename: noble
+Date: Thu, 22 Aug 2024 17:06:41 UTC
 Architectures: amd64
 Components: main
 Description: AutoPower APT Repository
@@ -22,8 +22,8 @@ SHA256:
  a74ddb14cef7c788387c4d75d27baecc646be6bd738d28f243d556536807df7b 120 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQmR0hLRNffjM8TCIy4LUaijgKANQUCZsarIQAKCRC4LUaijgKA
-NRJzAQDoX/gEw5b7lkXxv21P2SltqE+0bZc6nJb2AzCQ/dBdhgEAjQL9F+nG83jH
-V9NGocLiAgUaiCd4IitfPS3MwFatzwM=
-=gumi
+iHUEARYKAB0WIQQmR0hLRNffjM8TCIy4LUaijgKANQUCZsdwJgAKCRC4LUaijgKA
+NYEJAP4oo6FvItl1K2Z3vpqKhOnT1ULRO/HDtgrnjyJnAa0WqgD+NEDzq26qMxCb
+LdeHajJXJTA4pWmo8fTe0B91Xd9gJAE=
+=MXGB
 -----END PGP SIGNATURE-----
