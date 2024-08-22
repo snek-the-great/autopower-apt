@@ -1,0 +1,7 @@
+Codename: stable
+Components: main
+Architectures: amd64
+Origin: AutoPower
+Label: AutoPower Repository
+Description: AutoPower APT Repository
+SignWith: 2647484B44D7DF8CCF13088CB82D46A28E028035

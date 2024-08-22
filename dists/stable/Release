@@ -1,0 +1,19 @@
+Origin: AutoPower
+Label: AutoPower Repository
+Codename: stable
+Date: Thu, 22 Aug 2024 02:51:21 UTC
+Architectures: amd64
+Components: main
+Description: AutoPower APT Repository
+MD5Sum:
+ d09510165d2913c160b9c9097378c2ed 481 main/binary-amd64/Packages
+ 35064170a49c541e83b421bb04111770 364 main/binary-amd64/Packages.gz
+ 6b4c0d9dad624dbee572b9d87a5ef836 120 main/binary-amd64/Release
+SHA1:
+ 5561e5242999903d16cb2dfd9d003d27e1a1b044 481 main/binary-amd64/Packages
+ 9c72c8f2fc2473cb81fa638114dd6cd7b9ba6973 364 main/binary-amd64/Packages.gz
+ ca80ddec3f8dd4567043ec86031b31d38e3cd1ca 120 main/binary-amd64/Release
+SHA256:
+ f6dc766cb845a91b78000943f7180bf885f402cff0860fa7c0278ac4f9114da1 481 main/binary-amd64/Packages
+ 0b62248220970ab33e11a5495f4a49924680351c2a63f018a686903143e09e55 364 main/binary-amd64/Packages.gz
+ a74ddb14cef7c788387c4d75d27baecc646be6bd738d28f243d556536807df7b 120 main/binary-amd64/Release
